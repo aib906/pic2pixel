@@ -154,7 +154,7 @@ def create_gui():
     global window, original_canvas, preview_canvas, pixel_size_entry, color_count_entry, palette_var
 
     window = tk.Tk()
-    window.title("图片转像素精灵图 - 专业版")
+    window.title("图片转像素精灵图 - （我认为是）专业版")
     window.geometry("900x400")
     window.resizable(True, True)
 
